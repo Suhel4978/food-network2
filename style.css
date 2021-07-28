@@ -11,9 +11,7 @@ p{
 h1{
     font-size: 40px;
 }
-.half-width{
 
-}
 .fast-area{
     padding-top: 120px;
 }
@@ -52,4 +50,51 @@ h1{
 }
 .about{
     padding-top: 50px;
+}
+.My-recipies{
+ text-align: center;
+ padding: 0 22%;
+}
+.card{
+    width: 23%;
+    height: 50%;
+    padding: 20px;
+   
+    border-radius: 20px;
+    margin-left: 5%;
+    box-shadow: 1px 1px 50px 1px grey;
+    
+    
+
+}
+.card img{
+width: 100%;
+
+}
+.conteinar{
+    display: flex;
+    margin-left:2%;
+   
+}
+.social-media{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 120px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 50px 1px grey;
+    display: flex;
+   
+}
+.social{
+    width: 30%;
+    padding-left: 10%;
+}
+footer{
+    height: 200px;
+    background-color: black;
+    margin-top: 100px;
+    text-align: center;
+    color: grey;
+    padding-top: 30px;
 }
